@@ -1,3 +1,5 @@
+# Reddit scraper and API
+Interested in using this scraper? Get it here: [Reddit scraper and API](https://apify.com/curious_coder/reddit-scraper)
 Reddit Scraper offers a range of features that allow you to **extract data from [Reddit](https://reddit.com)** without any limitations
 
 By utilizing our unofficial **Reddit API**, you can retrieve posts, comments, and user information
