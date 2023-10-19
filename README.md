@@ -1,5 +1,5 @@
 # Reddit scraper and API
-Interested in using this scraper? Get it here: [Reddit scraper and API](https://apify.com/curious_coder/reddit-scraper)
+Interested in using this scraper? Get it here: [Reddit scraper and API](https://apify.com/curious_coder/reddit-scraper?fpr=ve081&fp_sid=github_reddit-scraper)
 Reddit Scraper offers a range of features that allow you to **extract data from [Reddit](https://reddit.com)** without any limitations
 
 By utilizing our unofficial **Reddit API**, you can retrieve posts, comments, and user information
@@ -15,7 +15,7 @@ Additionally, you can retrieve Reddit posts, their title and text, timestamps, u
 ## Reddit api cost
 
 The cost of scraping Reddit using Reddit Scraper on the Apify platform is far cheaper than official **reddit api pricing**. You can scrape thousands of reocrds with $5 free credits per month that comes with every Apify Free plan.
-If you require regular access to more data from Reddit, we recommend [subscribing to Apify](https://apify.com/pricing). 
+If you require regular access to more data from Reddit, we recommend [subscribing to Apify](https://apify.com/pricing?fpr=ve081&fp_sid=github_reddit-scraper). 
 
 Scraping Reddit with Reddit Scraper does not require any coding skills. 
 You simply need to create a free Apify account using your email, open the Reddit Scraper, and add one or more subreddits, users, or post URLs from which you wish to extract information. 
@@ -149,7 +149,7 @@ To utilize the API with Node.js, utilize the apify-client NPM package. For Pytho
 Please refer to the Apify API reference docs for comprehensive details or navigate to the API tab for relevant code examples.
 
 ## How can I build a Reddit scraper in Python?
-You have two options for building a Reddit web scraper in Python. Firstly, you can utilize a [Python scraper template](https://apify.com/templates?category=python) directly on the Apify platform and maintain your production there. Alternatively, you can develop the scraper locally on your computer and only deploy it to the Apify cloud when ready. 
+You have two options for building a Reddit web scraper in Python. Firstly, you can utilize a [Python scraper template](https://apify.com/templates?category=python&fpr=ve081&fp_sid=github_reddit-scraper) directly on the Apify platform and maintain your production there. Alternatively, you can develop the scraper locally on your computer and only deploy it to the Apify cloud when ready. 
 
 If you possess coding skills, there's another method to extract data from Reddit, and that's by developing your own web scraper using Python, a powerful programming language. Additionally, you can leverage third-party libraries and frameworks to streamline the creation of scrapers and web crawlers.
 
